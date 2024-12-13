@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "all_about_engie_throwback:blocks/thanksforplaying",
+    "up": "all_about_engie_throwback:blocks/thanksforplaying",
+    "north": "all_about_engie_throwback:blocks/thanksforplaying",
+    "east": "all_about_engie_throwback:blocks/thanksforplaying",
+    "south": "all_about_engie_throwback:blocks/thanksforplaying",
+    "west": "all_about_engie_throwback:blocks/thanksforplaying",
+    "particle": "all_about_engie_throwback:blocks/thanksforplaying"
+  },
+  "render_type": "solid"
+}

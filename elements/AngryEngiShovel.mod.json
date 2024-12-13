@@ -1,0 +1,31 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "angryshovel",
+    "customModelName": "Normal",
+    "name": "Angry Engi Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Items"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 6,
+    "efficiency": 16.0,
+    "attackSpeed": 1.4,
+    "enchantability": 16,
+    "damageVsEntity": 25.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AngryEngiEssence"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "all_about_engie_throwback:legendary_sharko",
+    "weight": 15,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}

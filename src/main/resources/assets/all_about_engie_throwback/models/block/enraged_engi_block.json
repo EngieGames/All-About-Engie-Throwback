@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "all_about_engie_throwback:blocks/enragedblock",
+    "up": "all_about_engie_throwback:blocks/enragedblock",
+    "north": "all_about_engie_throwback:blocks/enragedblock",
+    "east": "all_about_engie_throwback:blocks/enragedblock",
+    "south": "all_about_engie_throwback:blocks/enragedblock",
+    "west": "all_about_engie_throwback:blocks/enragedblock",
+    "particle": "all_about_engie_throwback:blocks/enragedblock"
+  },
+  "render_type": "solid"
+}

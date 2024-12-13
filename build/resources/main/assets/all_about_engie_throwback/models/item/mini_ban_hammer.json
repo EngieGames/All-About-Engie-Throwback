@@ -1,0 +1,7 @@
+{
+  "parent": "all_about_engie_throwback:custom/ban_hammer_mini",
+  "textures": {
+    "0": "all_about_engie_throwback:blocks/regular",
+    "particle": "all_about_engie_throwback:items/banhammerpixel"
+  }
+}

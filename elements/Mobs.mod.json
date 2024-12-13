@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "Mobs",
+    "icon": {
+      "value": "Blocks.MOB_SPAWNER"
+    },
+    "showSearch": false
+  }
+}

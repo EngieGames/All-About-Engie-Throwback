@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "all_about_engie_throwback:sharko_cloth"
+  },
+  "addition": {
+    "item": "minecraft:white_dye"
+  },
+  "result": {
+    "item": "all_about_engie_throwback:albino_sharko_cloth"
+  }
+}

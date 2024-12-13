@@ -1,0 +1,36 @@
+{
+  "group": "crafting",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "1": {
+      "item": "minecraft:iron_block"
+    },
+    "2": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "3": {
+      "item": "all_about_engie_throwback:enraged_engi_block"
+    },
+    "4": {
+      "item": "all_about_engie_throwback:bigger_ban_hammer"
+    },
+    "5": {
+      "item": "all_about_engie_throwback:enraged_engi_block"
+    },
+    "7": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "all_about_engie_throwback:biggest_ban_hammer",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "crafting",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "all_about_engie_throwback:exotic_sharko_cloth"
+    },
+    "1": {
+      "item": "all_about_engie_throwback:exotic_sharko_cloth"
+    },
+    "2": {
+      "item": "all_about_engie_throwback:exotic_sharko_cloth"
+    },
+    "3": {
+      "item": "all_about_engie_throwback:exotic_sharko_cloth"
+    },
+    "5": {
+      "item": "all_about_engie_throwback:exotic_sharko_cloth"
+    },
+    "6": {
+      "item": "all_about_engie_throwback:exotic_sharko_cloth"
+    },
+    "8": {
+      "item": "all_about_engie_throwback:exotic_sharko_cloth"
+    }
+  },
+  "result": {
+    "item": "all_about_engie_throwback:exotic_shark_leggings",
+    "count": 1
+  }
+}

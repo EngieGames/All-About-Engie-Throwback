@@ -1,0 +1,9 @@
+JVM:         F:\2023.1 mcreator\MCreator\jdk\bin\java.exe
+JVM Args:    
+Run Args:    "--strip", "--input", "C:\Users\engif\MCreatorWorkspaces\all_about_engie_throwback\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\AccessTransformer\output.jar", "--output", "C:\Users\engif\MCreatorWorkspaces\all_about_engie_throwback\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\SideStripper\output.jar", "--data", "C:\Users\engif\MCreatorWorkspaces\all_about_engie_throwback\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\SideStripper\string_data.sas"
+Classpath:   C:\Users\engif\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\mergetool\1.1.6\mergetool-1.1.6-fatjar.jar
+Working Dir: C:\Users\engif\MCreatorWorkspaces\all_about_engie_throwback\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\SideStripper
+Main Class:  net.minecraftforge.mergetool.ConsoleMerger
+Input:  C:\Users\engif\MCreatorWorkspaces\all_about_engie_throwback\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\AccessTransformer\output.jar
+Output: C:\Users\engif\MCreatorWorkspaces\all_about_engie_throwback\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\SideStripper\output.jar
+Data:   C:\Users\engif\MCreatorWorkspaces\all_about_engie_throwback\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\SideStripper\string_data.sas

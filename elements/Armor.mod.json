@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "Armor",
+    "icon": {
+      "value": "CUSTOM:Engis.helmet"
+    },
+    "showSearch": false
+  }
+}

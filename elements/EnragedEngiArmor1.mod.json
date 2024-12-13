@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "crafting",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EnragedEngiEssence"
+      },
+      {
+        "value": "CUSTOM:EnragedEngiEssence"
+      },
+      {
+        "value": "CUSTOM:EnragedEngiEssence"
+      },
+      {
+        "value": "CUSTOM:EnragedEngiEssence"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnragedEngiEssence"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EnragedEngis.helmet"
+    },
+    "name": "enraged_engi_armor_1",
+    "namespace": "mod"
+  }
+}

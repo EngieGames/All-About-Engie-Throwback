@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "crafting",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EngiItem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EngiItem"
+      },
+      {
+        "value": "CUSTOM:EngiItem"
+      },
+      {
+        "value": "CUSTOM:EngiItem"
+      },
+      {
+        "value": "CUSTOM:EngiItem"
+      },
+      {
+        "value": "CUSTOM:EngiItem"
+      },
+      {
+        "value": "CUSTOM:EngiItem"
+      },
+      {
+        "value": "CUSTOM:EngiItem"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Engis.body"
+    },
+    "name": "engi_armor_2",
+    "namespace": "mod"
+  }
+}

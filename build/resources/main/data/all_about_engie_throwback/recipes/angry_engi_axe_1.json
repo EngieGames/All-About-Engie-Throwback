@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "all_about_engie_throwback:angry_engi_essence"
+    },
+    "1": {
+      "item": "all_about_engie_throwback:angry_engi_essence"
+    },
+    "2": {
+      "item": "all_about_engie_throwback:angry_engi_essence"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "all_about_engie_throwback:angry_engi_axe",
+    "count": 1
+  }
+}

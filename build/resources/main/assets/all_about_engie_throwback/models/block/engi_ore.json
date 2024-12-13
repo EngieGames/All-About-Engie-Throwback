@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "all_about_engie_throwback:blocks/oldengiore",
+    "up": "all_about_engie_throwback:blocks/oldengiore",
+    "north": "all_about_engie_throwback:blocks/oldengiore",
+    "east": "all_about_engie_throwback:blocks/oldengiore",
+    "south": "all_about_engie_throwback:blocks/oldengiore",
+    "west": "all_about_engie_throwback:blocks/oldengiore",
+    "particle": "all_about_engie_throwback:blocks/oldengiore"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,29 @@
+{
+  "group": "crafting",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "all_about_engie_throwback:blood_ingot"
+    },
+    "1": {
+      "item": "all_about_engie_throwback:blood_ingot"
+    },
+    "2": {
+      "item": "all_about_engie_throwback:blood_ingot"
+    },
+    "3": {
+      "item": "all_about_engie_throwback:blood_ingot"
+    },
+    "5": {
+      "item": "all_about_engie_throwback:blood_ingot"
+    }
+  },
+  "result": {
+    "item": "all_about_engie_throwback:blood_helmet",
+    "count": 1
+  }
+}

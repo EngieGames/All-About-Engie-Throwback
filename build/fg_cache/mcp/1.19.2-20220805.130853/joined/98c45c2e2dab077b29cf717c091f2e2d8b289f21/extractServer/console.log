@@ -1,0 +1,13 @@
+JVM:         F:\2023.1 mcreator\MCreator\jdk\bin\java.exe
+JVM Args:    
+Run Args:    "--task", "bundler_extract", "--input", "C:\Users\engif\MCreatorWorkspaces\all_about_engie_throwback\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\downloadServer\server.jar", "--output", "C:\Users\engif\MCreatorWorkspaces\all_about_engie_throwback\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\extractServer\output.jar", "--jar-only"
+Classpath:   C:\Users\engif\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.3.0\installertools-1.3.0-fatjar.jar
+Working Dir: C:\Users\engif\MCreatorWorkspaces\all_about_engie_throwback\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\extractServer
+Main Class:  net.minecraftforge.installertools.ConsoleTool
+Task: BUNDLER_EXTRACT
+Input:   C:\Users\engif\MCreatorWorkspaces\all_about_engie_throwback\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\downloadServer\server.jar
+Output:  C:\Users\engif\MCreatorWorkspaces\all_about_engie_throwback\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\extractServer\output.jar
+All:     false
+JarOnly: true
+Libs:    false
+Extracted: versions/1.19.2/server-1.19.2.jar

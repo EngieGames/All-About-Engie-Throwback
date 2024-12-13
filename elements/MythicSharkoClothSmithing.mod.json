@@ -1,0 +1,23 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "crafting",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:LegendarySharkoCloth"
+    },
+    "smithingInputAdditionStack": {
+      "value": "Blocks.GOLD_BLOCK"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:MythicSharkoCloth"
+    },
+    "name": "mythic_sharko_cloth_smithing",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "all_about_engie_throwback:cyber_ore"
+  },
+  "result": "all_about_engie_throwback:cyber_ingot"
+}

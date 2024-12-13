@@ -1,0 +1,30 @@
+{
+  "group": "crafting",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "all_about_engie_throwback:angry_engi_essence"
+    },
+    "1": {
+      "item": "all_about_engie_throwback:angry_engi_essence"
+    },
+    "2": {
+      "item": "all_about_engie_throwback:angry_engi_essence"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "all_about_engie_throwback:angry_engi_pickaxe",
+    "count": 1
+  }
+}

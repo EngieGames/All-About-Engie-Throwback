@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "all_about_engie_throwback:blocks/oldmetaltablebottom",
+    "up": "all_about_engie_throwback:blocks/oldmetaltabletop",
+    "north": "all_about_engie_throwback:blocks/oldmetaltableside",
+    "east": "all_about_engie_throwback:blocks/oldmetaltableside",
+    "south": "all_about_engie_throwback:blocks/oldmetaltableside",
+    "west": "all_about_engie_throwback:blocks/oldmetaltableside",
+    "particle": "all_about_engie_throwback:blocks/oldmetaltablebottom"
+  },
+  "render_type": "solid"
+}
