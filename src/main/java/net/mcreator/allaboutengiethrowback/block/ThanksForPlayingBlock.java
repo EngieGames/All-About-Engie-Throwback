@@ -9,7 +9,11 @@ import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.BlockGetter;
 import net.minecraft.world.item.ItemStack;
+import net.minecraft.util.RandomSource;
+import net.minecraft.server.level.ServerLevel;
 import net.minecraft.core.BlockPos;
+
+import net.mcreator.allaboutengiethrowback.procedures.ThanksForPlayingUpdateTickProcedure;
 
 import java.util.List;
 import java.util.Collections;
@@ -30,5 +34,14 @@ public class ThanksForPlayingBlock extends Block {
 		if (!dropsOriginal.isEmpty())
 			return dropsOriginal;
 		return Collections.singletonList(new ItemStack(this, 1));
+	}
+
+	@Override
+	public void tick(BlockState blockstate, ServerLevel world, BlockPos pos, RandomSource random) {
+		super.tick(blockstate, world, pos, random);
+		int x = pos.getX();
+		int y = pos.getY();
+		int z = pos.getZ();
+		ThanksForPlayingUpdateTickProcedure.execute(world, x, y, z);
 	}
 }

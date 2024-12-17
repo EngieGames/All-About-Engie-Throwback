@@ -4097,10 +4097,10 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.all_about_engie_throwback.rare_engie_sharko_tamed_2_spawn_egg": "Rare Engie Sharko Tamed Spawn Egg",
-      "entity.all_about_engie_throwback.rare_sharko_lay": "Rare Sharko Lay",
-      "item.all_about_engie_throwback.enraged_engis_leggings": "Enraged Engi Leggings",
       "item.all_about_engie_throwback.blood_boots": "Blood Boots",
+      "item.all_about_engie_throwback.enraged_engis_leggings": "Enraged Engi Leggings",
+      "entity.all_about_engie_throwback.rare_sharko_lay": "Rare Sharko Lay",
+      "item.all_about_engie_throwback.rare_engie_sharko_tamed_2_spawn_egg": "Rare Engie Sharko Tamed Spawn Egg",
       "itemGroup.tabsharkos": "Sharkos",
       "item.all_about_engie_throwback.legendary_shark_chestplate": "Legendary Sharko Chestplate",
       "item.all_about_engie_throwback.legendary_shark_leggings": "Legendary Sharko Leggings",
