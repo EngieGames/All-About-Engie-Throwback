@@ -36,6 +36,6 @@ public class EngiPickaxeItem extends PickaxeItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(AllAboutEngieThrowbackModItems.ENGI_ITEM.get()));
 			}
-		}, 1, -3f, new Item.Properties().tab(AllAboutEngieThrowbackModTabs.TAB_ITEMS));
+		}, 1, -3f, new Item.Properties().tab(AllAboutEngieThrowbackModTabs.TAB_TOOLS));
 	}
 }

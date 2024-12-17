@@ -8,7 +8,7 @@
     "name": "Blood Ingot",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:Items"
     },
     "stackSize": 64,
     "enchantability": 0,

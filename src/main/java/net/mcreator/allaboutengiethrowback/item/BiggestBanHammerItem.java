@@ -18,7 +18,7 @@ public class BiggestBanHammerItem extends SwordItem {
 	public BiggestBanHammerItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 8999;
+				return 9001;
 			}
 
 			public float getSpeed() {
@@ -26,7 +26,7 @@ public class BiggestBanHammerItem extends SwordItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 2f;
+				return 8997f;
 			}
 
 			public int getLevel() {
@@ -34,13 +34,13 @@ public class BiggestBanHammerItem extends SwordItem {
 			}
 
 			public int getEnchantmentValue() {
-				return 2;
+				return 25;
 			}
 
 			public Ingredient getRepairIngredient() {
 				return Ingredient.EMPTY;
 			}
-		}, 3, -3f, new Item.Properties().tab(AllAboutEngieThrowbackModTabs.TAB_ITEMS));
+		}, 3, -1f, new Item.Properties().tab(AllAboutEngieThrowbackModTabs.TAB_ITEMS));
 	}
 
 	@Override

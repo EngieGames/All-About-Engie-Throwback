@@ -34,6 +34,6 @@ public class EnragedEngiShovelItem extends ShovelItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.EMPTY;
 			}
-		}, 1, -2.2f, new Item.Properties().tab(AllAboutEngieThrowbackModTabs.TAB_ITEMS));
+		}, 1, -2.2f, new Item.Properties().tab(AllAboutEngieThrowbackModTabs.TAB_TOOLS));
 	}
 }

@@ -8,7 +8,7 @@
     "name": "Engi Pickaxe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:Items"
+      "value": "CUSTOM:Tools"
     },
     "toolType": "Pickaxe",
     "harvestLevel": 3,

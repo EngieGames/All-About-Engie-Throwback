@@ -8,7 +8,7 @@
     "name": "Enraged Engi Shovel",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:Items"
+      "value": "CUSTOM:Tools"
     },
     "toolType": "Spade",
     "harvestLevel": 9,

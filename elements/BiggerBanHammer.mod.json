@@ -2,9 +2,9 @@
   "_fv": 39,
   "_type": "tool",
   "definition": {
-    "renderType": 0,
+    "renderType": 1,
     "texture": "banhammerpixel",
-    "customModelName": "Normal",
+    "customModelName": "ban_hammer_bigger:default",
     "name": "Bigger Ban Hammer",
     "specialInfo": [],
     "creativeTab": {

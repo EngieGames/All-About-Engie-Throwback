@@ -4063,16 +4063,44 @@
         ]
       },
       "path": "~/Recipes"
+    },
+    {
+      "name": "LapFlintAndSteel",
+      "type": "recipe",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lap_flint_and_steel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_about_engie_throwback/recipes/lap_flint_and_steel.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RedFlintAndSteel",
+      "type": "recipe",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_flint_and_steel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_about_engie_throwback/recipes/red_flint_and_steel.json"
+        ]
+      },
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.all_about_engie_throwback.blood_boots": "Blood Boots",
-      "item.all_about_engie_throwback.enraged_engis_leggings": "Enraged Engi Leggings",
-      "entity.all_about_engie_throwback.rare_sharko_lay": "Rare Sharko Lay",
       "item.all_about_engie_throwback.rare_engie_sharko_tamed_2_spawn_egg": "Rare Engie Sharko Tamed Spawn Egg",
+      "entity.all_about_engie_throwback.rare_sharko_lay": "Rare Sharko Lay",
+      "item.all_about_engie_throwback.enraged_engis_leggings": "Enraged Engi Leggings",
+      "item.all_about_engie_throwback.blood_boots": "Blood Boots",
       "itemGroup.tabsharkos": "Sharkos",
       "item.all_about_engie_throwback.legendary_shark_chestplate": "Legendary Sharko Chestplate",
       "item.all_about_engie_throwback.legendary_shark_leggings": "Legendary Sharko Leggings",
@@ -4310,7 +4338,7 @@
   "workspaceSettings": {
     "modid": "all_about_engie_throwback",
     "modName": "All About Engie Throwback",
-    "version": "12.13.24",
+    "version": "12.16.24",
     "description": "Throwback to 2023 THIS IS NOT THE OTHER AAE.",
     "author": "DevEngie",
     "websiteURL": "https://twitch.tv/devengie",

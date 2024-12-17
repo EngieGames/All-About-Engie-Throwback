@@ -8,7 +8,7 @@
     "name": "Engi Axe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:Items"
+      "value": "CUSTOM:Tools"
     },
     "toolType": "Axe",
     "harvestLevel": 3,
