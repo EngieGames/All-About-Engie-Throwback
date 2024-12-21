@@ -50,12 +50,12 @@ public abstract class EnragedEngisItem extends ArmorItem {
 
 			@Override
 			public float getToughness() {
-				return 0f;
+				return 10f;
 			}
 
 			@Override
 			public float getKnockbackResistance() {
-				return 0f;
+				return 2.5f;
 			}
 		}, slot, properties);
 	}

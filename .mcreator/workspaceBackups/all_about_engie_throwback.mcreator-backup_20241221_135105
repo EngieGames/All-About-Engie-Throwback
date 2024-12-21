@@ -218,7 +218,6 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/SharkoEntity.java",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/sharko_biome_modifier.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/SharkoRenderer.java",
           "src/main/resources/assets/all_about_engie_throwback/models/item/sharko_spawn_egg.json"
         ]
@@ -426,8 +425,7 @@
         "files": [
           "src/main/resources/assets/all_about_engie_throwback/models/item/albino_sharko_spawn_egg.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/AlbinoSharkoRenderer.java",
-          "src/main/java/net/mcreator/allaboutengiethrowback/entity/AlbinoSharkoEntity.java",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/albino_sharko_biome_modifier.json"
+          "src/main/java/net/mcreator/allaboutengiethrowback/entity/AlbinoSharkoEntity.java"
         ]
       },
       "path": "~/Sharkos"
@@ -471,7 +469,6 @@
       "registry_name": "rare_sharko",
       "metadata": {
         "files": [
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/rare_sharko_biome_modifier.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/RareSharkoEntity.java",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/RareSharkoRenderer.java",
           "src/main/resources/assets/all_about_engie_throwback/models/item/rare_sharko_spawn_egg.json"
@@ -518,7 +515,6 @@
       "registry_name": "legendary_sharko",
       "metadata": {
         "files": [
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/legendary_sharko_biome_modifier.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/LegendarySharkoEntity.java",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/LegendarySharkoRenderer.java",
           "src/main/resources/assets/all_about_engie_throwback/models/item/legendary_sharko_spawn_egg.json"
@@ -567,8 +563,7 @@
         "files": [
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/MythicSharkoEntity.java",
           "src/main/resources/assets/all_about_engie_throwback/models/item/mythic_sharko_spawn_egg.json",
-          "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/MythicSharkoRenderer.java",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/mythic_sharko_biome_modifier.json"
+          "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/MythicSharkoRenderer.java"
         ]
       },
       "path": "~/Sharkos"
@@ -612,7 +607,6 @@
       "registry_name": "exotic_sharko",
       "metadata": {
         "files": [
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/exotic_sharko_biome_modifier.json",
           "src/main/resources/assets/all_about_engie_throwback/models/item/exotic_sharko_spawn_egg.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/ExoticSharkoEntity.java",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/ExoticSharkoRenderer.java"
@@ -660,7 +654,6 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/EngieSharkoEntity.java",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/engie_sharko_biome_modifier.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/EngieSharkoRenderer.java",
           "src/main/resources/assets/all_about_engie_throwback/models/item/engie_sharko_spawn_egg.json"
         ]
@@ -708,8 +701,7 @@
         "files": [
           "src/main/resources/assets/all_about_engie_throwback/models/item/rare_engie_sharko_spawn_egg.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/RareEngieSharkoRenderer.java",
-          "src/main/java/net/mcreator/allaboutengiethrowback/entity/RareEngieSharkoEntity.java",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/rare_engie_sharko_biome_modifier.json"
+          "src/main/java/net/mcreator/allaboutengiethrowback/entity/RareEngieSharkoEntity.java"
         ]
       },
       "path": "~/Sharkos"
@@ -755,7 +747,6 @@
         "files": [
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/RareEngieSharko2Entity.java",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/RareEngieSharko2Renderer.java",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/rare_engie_sharko_2_biome_modifier.json",
           "src/main/resources/assets/all_about_engie_throwback/models/item/rare_engie_sharko_2_spawn_egg.json"
         ]
       },
@@ -1811,7 +1802,6 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/allaboutengiethrowback/block/EngiOreBlock.java",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/engi_ore_biome_modifier.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/world/features/ores/EngiOreFeature.java",
           "src/main/resources/assets/all_about_engie_throwback/models/item/engi_ore.json",
           "src/main/resources/assets/all_about_engie_throwback/blockstates/engi_ore.json",
@@ -1832,7 +1822,6 @@
           "src/main/resources/assets/all_about_engie_throwback/blockstates/deepslate_engi_ore.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/world/features/ores/DeepslateEngiOreFeature.java",
           "src/main/resources/assets/all_about_engie_throwback/models/block/deepslate_engi_ore.json",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/deepslate_engi_ore_biome_modifier.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/block/DeepslateEngiOreBlock.java",
           "src/main/resources/assets/all_about_engie_throwback/models/item/deepslate_engi_ore.json"
         ]
@@ -1885,8 +1874,7 @@
         "files": [
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/EngiRenderer.java",
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/EngiEntity.java",
-          "src/main/resources/assets/all_about_engie_throwback/models/item/engi_spawn_egg.json",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/engi_biome_modifier.json"
+          "src/main/resources/assets/all_about_engie_throwback/models/item/engi_spawn_egg.json"
         ]
       },
       "path": "~/Mobs"
@@ -1902,7 +1890,6 @@
         "files": [
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/CreatorRenderer.java",
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/CreatorEntity.java",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/creator_biome_modifier.json",
           "src/main/resources/assets/all_about_engie_throwback/models/item/creator_spawn_egg.json"
         ]
       },
@@ -1929,7 +1916,6 @@
       "registry_name": "protogen",
       "metadata": {
         "files": [
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/protogen_biome_modifier.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/ProtogenRenderer.java",
           "src/main/resources/assets/all_about_engie_throwback/models/item/protogen_spawn_egg.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/ProtogenEntity.java"
@@ -1948,7 +1934,6 @@
         "files": [
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/DevEngiEntity.java",
           "src/main/resources/assets/all_about_engie_throwback/models/item/dev_engi_spawn_egg.json",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/dev_engi_biome_modifier.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/DevEngiRenderer.java"
         ]
       },
@@ -1965,7 +1950,6 @@
         "files": [
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/QuizEntity.java",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/QuizRenderer.java",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/quiz_biome_modifier.json",
           "src/main/resources/assets/all_about_engie_throwback/models/item/quiz_spawn_egg.json"
         ]
       },
@@ -2051,7 +2035,6 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/MadEngiEntity.java",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/mad_engi_biome_modifier.json",
           "src/main/resources/assets/all_about_engie_throwback/models/item/mad_engi_spawn_egg.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/MadEngiRenderer.java"
         ]
@@ -2068,7 +2051,6 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/AngryEngiEntity.java",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/angry_engi_biome_modifier.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/AngryEngiRenderer.java",
           "src/main/resources/assets/all_about_engie_throwback/models/item/angry_engi_spawn_egg.json"
         ]
@@ -2085,7 +2067,6 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/all_about_engie_throwback/models/item/enraged_engi_spawn_egg.json",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/enraged_engi_biome_modifier.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/EnragedEngiRenderer.java",
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/EnragedEngiEntity.java"
         ]
@@ -2102,7 +2083,6 @@
       "metadata": {
         "files": [
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/AngryCreatorEntity.java",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/angry_creator_biome_modifier.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/AngryCreatorRenderer.java",
           "src/main/resources/assets/all_about_engie_throwback/models/item/angry_creator_spawn_egg.json"
         ]
@@ -2118,7 +2098,6 @@
       "registry_name": "bloody_engi",
       "metadata": {
         "files": [
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/bloody_engi_biome_modifier.json",
           "src/main/resources/assets/all_about_engie_throwback/models/item/bloody_engi_spawn_egg.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/entity/BloodyEngiEntity.java",
           "src/main/java/net/mcreator/allaboutengiethrowback/client/renderer/BloodyEngiRenderer.java"
@@ -2163,8 +2142,7 @@
       "registry_name": "throwback_house",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/allaboutengiethrowback/world/features/ThrowbackHouseFeature.java",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/throwback_house_biome_modifier.json"
+          "src/main/java/net/mcreator/allaboutengiethrowback/world/features/ThrowbackHouseFeature.java"
         ]
       },
       "path": "~/Structures"
@@ -2178,7 +2156,6 @@
       "registry_name": "throwback_house_spawner",
       "metadata": {
         "files": [
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/throwback_house_spawner_biome_modifier.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/world/features/ThrowbackHouseSpawnerFeature.java"
         ]
       },
@@ -2309,7 +2286,6 @@
           "src/main/resources/assets/all_about_engie_throwback/blockstates/cyber_ore.json",
           "src/main/java/net/mcreator/allaboutengiethrowback/block/CyberOreBlock.java",
           "src/main/java/net/mcreator/allaboutengiethrowback/world/features/ores/CyberOreFeature.java",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/cyber_ore_biome_modifier.json",
           "src/main/resources/assets/all_about_engie_throwback/models/item/cyber_ore.json"
         ]
       },
@@ -2328,8 +2304,7 @@
           "src/main/java/net/mcreator/allaboutengiethrowback/block/BloodOreBlock.java",
           "src/main/java/net/mcreator/allaboutengiethrowback/world/features/ores/BloodOreFeature.java",
           "src/main/resources/assets/all_about_engie_throwback/models/item/blood_ore.json",
-          "src/main/resources/assets/all_about_engie_throwback/models/block/blood_ore.json",
-          "src/main/resources/data/all_about_engie_throwback/forge/biome_modifier/blood_ore_biome_modifier.json"
+          "src/main/resources/assets/all_about_engie_throwback/models/block/blood_ore.json"
         ]
       },
       "path": "~/Blocks"
@@ -4183,7 +4158,7 @@
       "item.all_about_engie_throwback.exotic_sharko_spawn_egg": "Exotic Sharko Spawn Egg",
       "item.all_about_engie_throwback.enraged_engi_spawn_egg": "Enraged Engi Spawn Egg",
       "item.all_about_engie_throwback.rare_shark_boots": "Rare Sharko Boots",
-      "item.all_about_engie_throwback.angry_creator_spawn_egg": "Enraged Engi Spawn Egg",
+      "item.all_about_engie_throwback.angry_creator_spawn_egg": "Angry Creator Spawn Egg",
       "item.all_about_engie_throwback.enraged_engi_essence": "Enraged Engi Essence",
       "item.all_about_engie_throwback.sharko_tamed_spawn_egg": "Sharko Tamed Spawn Egg",
       "item.all_about_engie_throwback.ban_hammer": "Ban Hammer",
@@ -4201,7 +4176,7 @@
       "item.all_about_engie_throwback.enraged_engis_chestplate": "Enraged Engi Chestplate",
       "item.all_about_engie_throwback.cyberblood_katana": "Cyberblood Katana",
       "item.all_about_engie_throwback.mad_engi_spawn_egg": "Mad Engi Spawn Egg",
-      "entity.all_about_engie_throwback.angry_creator": "Enraged Engi",
+      "entity.all_about_engie_throwback.angry_creator": "Angry Creator",
       "item.all_about_engie_throwback.angry_engis_boots": "Angry Engi Boots",
       "item.all_about_engie_throwback.engie_shark_chestplate": "Sharko Chestplate",
       "entity.all_about_engie_throwback.dev_engi": "Dev Engi",
@@ -4231,7 +4206,7 @@
       "item.all_about_engie_throwback.angry_engi_axe": "Angry Engi Axe",
       "item.all_about_engie_throwback.exotic_sharko_cloth": "Exotic Sharko Cloth",
       "item.all_about_engie_throwback.angry_engis_helmet": "Angry Engi Helmet",
-      "block.all_about_engie_throwback.blood_ore": "Cyber Ore",
+      "block.all_about_engie_throwback.blood_ore": "Blood Ore",
       "item.all_about_engie_throwback.rare_shark_chestplate": "Rare Sharko Chestplate",
       "entity.all_about_engie_throwback.sharko_lay": "Sharko Lay",
       "item.all_about_engie_throwback.engie_shark_helmet": "Sharko Helmet",
@@ -4338,7 +4313,7 @@
   "workspaceSettings": {
     "modid": "all_about_engie_throwback",
     "modName": "All About Engie Throwback",
-    "version": "12.16.24",
+    "version": "12.21.24",
     "description": "Throwback to 2023 THIS IS NOT THE OTHER AAE.",
     "author": "DevEngie",
     "websiteURL": "https://twitch.tv/devengie",
@@ -4350,7 +4325,7 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "forge-1.18.2",
+    "currentGenerator": "forge-1.19.2",
     "credits": "Mcreator",
     "modElementsPackage": "net.mcreator.allaboutengiethrowback",
     "lockBaseModFiles": false

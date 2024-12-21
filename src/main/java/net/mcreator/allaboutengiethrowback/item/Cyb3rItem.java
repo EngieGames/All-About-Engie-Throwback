@@ -20,7 +20,7 @@ public abstract class Cyb3rItem extends ArmorItem {
 		super(new ArmorMaterial() {
 			@Override
 			public int getDurabilityForSlot(EquipmentSlot slot) {
-				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 25;
+				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 35;
 			}
 
 			@Override
@@ -30,7 +30,7 @@ public abstract class Cyb3rItem extends ArmorItem {
 
 			@Override
 			public int getEnchantmentValue() {
-				return 9;
+				return 10;
 			}
 
 			@Override
@@ -50,12 +50,12 @@ public abstract class Cyb3rItem extends ArmorItem {
 
 			@Override
 			public float getToughness() {
-				return 2f;
+				return 4f;
 			}
 
 			@Override
 			public float getKnockbackResistance() {
-				return 0.2f;
+				return 0.4f;
 			}
 		}, slot, properties);
 	}

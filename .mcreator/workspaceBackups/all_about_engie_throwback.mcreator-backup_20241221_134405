@@ -4038,6 +4038,34 @@
         ]
       },
       "path": "~/Recipes"
+    },
+    {
+      "name": "LapFlintAndSteel",
+      "type": "recipe",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lap_flint_and_steel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_about_engie_throwback/recipes/lap_flint_and_steel.json"
+        ]
+      },
+      "path": "~/Recipes"
+    },
+    {
+      "name": "RedFlintAndSteel",
+      "type": "recipe",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_flint_and_steel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/all_about_engie_throwback/recipes/red_flint_and_steel.json"
+        ]
+      },
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
@@ -4130,7 +4158,7 @@
       "item.all_about_engie_throwback.exotic_sharko_spawn_egg": "Exotic Sharko Spawn Egg",
       "item.all_about_engie_throwback.enraged_engi_spawn_egg": "Enraged Engi Spawn Egg",
       "item.all_about_engie_throwback.rare_shark_boots": "Rare Sharko Boots",
-      "item.all_about_engie_throwback.angry_creator_spawn_egg": "Enraged Engi Spawn Egg",
+      "item.all_about_engie_throwback.angry_creator_spawn_egg": "Angry Creator Spawn Egg",
       "item.all_about_engie_throwback.enraged_engi_essence": "Enraged Engi Essence",
       "item.all_about_engie_throwback.sharko_tamed_spawn_egg": "Sharko Tamed Spawn Egg",
       "item.all_about_engie_throwback.ban_hammer": "Ban Hammer",
@@ -4148,7 +4176,7 @@
       "item.all_about_engie_throwback.enraged_engis_chestplate": "Enraged Engi Chestplate",
       "item.all_about_engie_throwback.cyberblood_katana": "Cyberblood Katana",
       "item.all_about_engie_throwback.mad_engi_spawn_egg": "Mad Engi Spawn Egg",
-      "entity.all_about_engie_throwback.angry_creator": "Enraged Engi",
+      "entity.all_about_engie_throwback.angry_creator": "Angry Creator",
       "item.all_about_engie_throwback.angry_engis_boots": "Angry Engi Boots",
       "item.all_about_engie_throwback.engie_shark_chestplate": "Sharko Chestplate",
       "entity.all_about_engie_throwback.dev_engi": "Dev Engi",
@@ -4178,7 +4206,7 @@
       "item.all_about_engie_throwback.angry_engi_axe": "Angry Engi Axe",
       "item.all_about_engie_throwback.exotic_sharko_cloth": "Exotic Sharko Cloth",
       "item.all_about_engie_throwback.angry_engis_helmet": "Angry Engi Helmet",
-      "block.all_about_engie_throwback.blood_ore": "Cyber Ore",
+      "block.all_about_engie_throwback.blood_ore": "Blood Ore",
       "item.all_about_engie_throwback.rare_shark_chestplate": "Rare Sharko Chestplate",
       "entity.all_about_engie_throwback.sharko_lay": "Sharko Lay",
       "item.all_about_engie_throwback.engie_shark_helmet": "Sharko Helmet",
@@ -4285,7 +4313,7 @@
   "workspaceSettings": {
     "modid": "all_about_engie_throwback",
     "modName": "All About Engie Throwback",
-    "version": "12.13.24",
+    "version": "12.16.24",
     "description": "Throwback to 2023 THIS IS NOT THE OTHER AAE.",
     "author": "DevEngie",
     "websiteURL": "https://twitch.tv/devengie",

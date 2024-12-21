@@ -20,12 +20,12 @@ public abstract class CyberbloodItem extends ArmorItem {
 		super(new ArmorMaterial() {
 			@Override
 			public int getDurabilityForSlot(EquipmentSlot slot) {
-				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 75;
+				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 70;
 			}
 
 			@Override
 			public int getDefenseForSlot(EquipmentSlot slot) {
-				return new int[]{1024, 1024, 1024, 1024}[slot.getIndex()];
+				return new int[]{700, 700, 700, 700}[slot.getIndex()];
 			}
 
 			@Override
@@ -50,7 +50,7 @@ public abstract class CyberbloodItem extends ArmorItem {
 
 			@Override
 			public float getToughness() {
-				return 6f;
+				return 8f;
 			}
 
 			@Override

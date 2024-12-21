@@ -20,12 +20,12 @@ public abstract class Bl00dItem extends ArmorItem {
 		super(new ArmorMaterial() {
 			@Override
 			public int getDurabilityForSlot(EquipmentSlot slot) {
-				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 50;
+				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 35;
 			}
 
 			@Override
 			public int getDefenseForSlot(EquipmentSlot slot) {
-				return new int[]{700, 700, 700, 700}[slot.getIndex()];
+				return new int[]{350, 350, 350, 350}[slot.getIndex()];
 			}
 
 			@Override

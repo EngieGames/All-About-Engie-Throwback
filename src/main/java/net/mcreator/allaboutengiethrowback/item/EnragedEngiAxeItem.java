@@ -3,12 +3,12 @@ package net.mcreator.allaboutengiethrowback.item;
 
 import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraft.world.item.Tier;
-import net.minecraft.world.item.PickaxeItem;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.AxeItem;
 
 import net.mcreator.allaboutengiethrowback.init.AllAboutEngieThrowbackModTabs;
 
-public class EnragedEngiAxeItem extends PickaxeItem {
+public class EnragedEngiAxeItem extends AxeItem {
 	public EnragedEngiAxeItem() {
 		super(new Tier() {
 			public int getUses() {

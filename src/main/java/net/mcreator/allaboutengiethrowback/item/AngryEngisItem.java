@@ -55,7 +55,7 @@ public abstract class AngryEngisItem extends ArmorItem {
 
 			@Override
 			public float getKnockbackResistance() {
-				return 0f;
+				return 1.3f;
 			}
 		}, slot, properties);
 	}
